@@ -34,4 +34,6 @@ async function seedDatabase() {
   }
 }
 
+console.log('deployment')
+
 seedDatabase()
